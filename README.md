@@ -106,3 +106,8 @@ The AI Citation Readiness Framework and the AEO Mastery Framework are open metho
 - [LinkedIn](https://www.linkedin.com/in/stefan-petschinka)
 - [ORCID](https://orcid.org/0009-0005-8441-9062)
 - [dev.to](https://dev.to/stefanpetschinka)
+
+## Further Reading
+
+- [The AI Citation Readiness Framework on Medium (EN)](https://medium.com/@stefanpetschinka/the-ai-citation-readiness-framework-can-ai-systems-understand-cite-and-recommend-you-068f25dfa446)
+- [Das AI Citation Readiness Framework auf Medium (DE)](https://medium.com/@stefanpetschinka/das-ai-citation-readiness-framework-können-ki-systeme-dich-verstehen-zitieren-und-empfehlen-6491cdd966f5)
