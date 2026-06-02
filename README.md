@@ -10,7 +10,7 @@
 
 ## The Problem
 
-Most organizations are invisible to AI systems — not because they lack expertise, but because their entity signals are incomplete, inconsistent or unverifiable.
+Most organizations are invisible to AI systems, not because they lack expertise, but because their entity signals are incomplete, inconsistent or unverifiable.
 
 AI systems do not rank websites. They construct answers from entities they can understand, verify and trust. An organization without clear entity signals will be ignored, misrepresented or replaced by a competitor that AI systems can read more clearly.
 
@@ -24,7 +24,7 @@ The question is: *"Can ChatGPT understand, cite and recommend you?"*
 The AI Citation Readiness Framework evaluates an entity across three dimensions:
 
 **1. Clarity**
-Is the entity unambiguously identifiable? AI systems must be able to determine who or what the entity is, what it does, and how it differs from similar entities — without guessing.
+Is the entity unambiguously identifiable? AI systems must be able to determine who or what the entity is, what it does, and how it differs from similar entities, without guessing.
 
 **2. Consistency**
 Are the core claims about the entity identical across all sources? Conflicting names, descriptions or roles across websites, profiles and structured data create entity resolution failures.
