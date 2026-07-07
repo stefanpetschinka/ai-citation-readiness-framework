@@ -101,11 +101,17 @@ Prior to founding richresults.ai, Stefan spent over 20 years in brand communicat
 
 The AI Citation Readiness Framework and the AEO Mastery Framework are open methodologies developed from applied AEO practice.
 
-**Profiles & References:**
+## Profiles and References
+
 - [richresults.ai](https://www.richresults.ai)
-- [LinkedIn](https://www.linkedin.com/in/stefan-petschinka)
+- [Stefan Petschinka on richresults.ai](https://www.richresults.ai/stefan-petschinka.html)
+- [LinkedIn](https://www.linkedin.com/in/stefan-petschinka/)
 - [ORCID](https://orcid.org/0009-0009-8223-0339)
+- [GitHub](https://github.com/stefanpetschinka)
 - [dev.to](https://dev.to/stefanpetschinka)
+- [Amazon Author Page](https://www.amazon.com/author/stefan-petschinka)
+
+---
 
 ## Further Reading
 
