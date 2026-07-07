@@ -2,15 +2,15 @@
 
 *A methodology for measuring whether an organization, expert or brand is understandable, verifiable and citable by AI systems such as ChatGPT, Perplexity, Claude, Gemini and Google AI Search.*
 
-**Author:** Stefan Petschinka — AEO Strategist & Entity Architect, [richresults.ai](https://www.richresults.ai)
-**Built on:** [AEO Mastery Framework](https://github.com/stefanpetschinka/aeo-mastery-framework)
-**Version:** 1.0
+- **Author:** Stefan Petschinka — AEO Strategist & Entity Architect, [richresults.ai](https://www.richresults.ai)
+- **Built on:** [AEO Mastery Framework](https://github.com/stefanpetschinka/aeo-mastery-framework)
+- **Version:** 1.0
 
 ---
 
 ## The Problem
 
-Most organizations are invisible to AI systems, not because they lack expertise, but because their entity signals are incomplete, inconsistent or unverifiable.
+Organizations that have never addressed their entity signals often show significant gaps in clarity, consistency and verifiability.
 
 AI systems do not rank websites. They construct answers from entities they can understand, verify and trust. An organization without clear entity signals will be ignored, misrepresented or replaced by a competitor that AI systems can read more clearly.
 
@@ -21,7 +21,7 @@ The question is: *"Can ChatGPT understand, cite and recommend you?"*
 
 ## What This Framework Measures
 
-The AI Citation Readiness Framework evaluates an entity across three dimensions:
+The AI Citation Readiness Score is the resulting assessment across these three dimensions.
 
 **1. Clarity**
 Is the entity unambiguously identifiable? AI systems must be able to determine who or what the entity is, what it does, and how it differs from similar entities, without guessing.
@@ -47,8 +47,6 @@ These three dimensions determine a single output:
 | 51–75 | **Citable** | AI systems can identify and cite the entity, but consistency and verifiability gaps remain. |
 | 76–100 | **Answer-Ready** | AI systems can understand, cite and recommend the entity with confidence. |
 
-Most organizations that have never addressed their entity signals score below 40.
-
 The goal of AEO implementation is not a perfect score. It is a score high enough that AI systems consistently choose your entity over a competitor they can understand more clearly.
 
 ---
@@ -61,10 +59,12 @@ The AI Citation Readiness Framework is designed to be applied in three steps:
 Map all existing signals for the entity: structured data, external profiles, sameAs references, published content, mentions and citations. Identify gaps, conflicts and missing anchor points.
 
 **Step 2 — Signal Assessment**
-Evaluate each signal against the three dimensions: Clarity, Consistency and Verifiability. Assign a score per dimension. The AI Citation Readiness Score is the weighted result.
+Evaluate each signal against the three dimensions: Clarity, Consistency and Verifiability. Assign a score per dimension. The AI Citation Readiness Score is the resulting assessment across these three dimensions.
 
 **Step 3 — Signal Architecture**
 Close the gaps. Structured data, external profile alignment, consistent claim formulation and verified anchor points are the primary tools. The goal is a coherent, machine-readable entity layer that AI systems can traverse without ambiguity.
+
+For a practical audit format, use the [Citation Readiness Checklist](./citation-readiness-checklist.md).
 
 ---
 
@@ -84,10 +84,13 @@ The AI Citation Readiness Framework answers a prior question: **how do you measu
 
 Together they form a complete AEO methodology:
 
-| Framework | Function |
-|-----------|----------|
-| AEO Mastery Framework | Strategy & Implementation |
-| AI Citation Readiness Framework | Measurement & Diagnosis |
+| Document | Function |
+|---|---|
+| AEO Mastery Framework | Strategic methodology |
+| AEO Implementation Layers | Practical build sequence |
+| AI Citation Readiness Framework | Diagnostic and measurement layer |
+
+The [AEO Implementation Layers](https://github.com/stefanpetschinka/aeo-mastery-framework/blob/main/aeo-implementation-layers.md) translate the AEO Mastery Framework into practical implementation layers for entity identity, page purpose, claim architecture, structured data, external verification, multilingual consistency and maintenance.
 
 Neither replaces the other. Measurement without strategy produces scores. Strategy without measurement produces assumptions.
 
