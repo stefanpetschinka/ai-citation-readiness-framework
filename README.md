@@ -104,7 +104,7 @@ The AI Citation Readiness Framework and the AEO Mastery Framework are open metho
 **Profiles & References:**
 - [richresults.ai](https://www.richresults.ai)
 - [LinkedIn](https://www.linkedin.com/in/stefan-petschinka)
-- [ORCID](https://orcid.org/0009-0005-8441-9062)
+- [ORCID](https://orcid.org/0009-0009-8223-0339)
 - [dev.to](https://dev.to/stefanpetschinka)
 
 ## Further Reading
