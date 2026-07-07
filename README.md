@@ -14,7 +14,7 @@ Organizations that have never addressed their entity signals often show signific
 
 AI systems do not rank websites. They construct answers from entities they can understand, verify and trust. An organization without clear entity signals will be ignored, misrepresented or replaced by a competitor that AI systems can read more clearly.
 
-The question is no longer: *"Do you rank on Google?"*
+The question is no longer: *"Do you rank on Google?"*  
 The question is: *"Can ChatGPT understand, cite and recommend you?"*
 
 ---
@@ -23,13 +23,13 @@ The question is: *"Can ChatGPT understand, cite and recommend you?"*
 
 The AI Citation Readiness Score is the resulting assessment across these three dimensions.
 
-**1. Clarity**
+**1. Clarity**  
 Is the entity unambiguously identifiable? AI systems must be able to determine who or what the entity is, what it does, and how it differs from similar entities, without guessing.
 
-**2. Consistency**
+**2. Consistency**  
 Are the core claims about the entity identical across all sources? Conflicting names, descriptions or roles across websites, profiles and structured data create entity resolution failures.
 
-**3. Verifiability**
+**3. Verifiability**  
 Are there external, machine-readable anchor points that confirm the entity exists and is credible? GitHub, ORCID, Crunchbase, LinkedIn and structured data on the entity's own domain all function as verifiable signals.
 
 These three dimensions determine a single output:
@@ -41,7 +41,7 @@ These three dimensions determine a single output:
 ## The AI Citation Readiness Score
 
 | Score | Status | Meaning |
-|-------|--------|---------|
+|---|---|---|
 | 0–25 | **Invisible** | AI systems cannot identify or recommend the entity. |
 | 26–50 | **Recognizable** | AI systems may find the entity but cannot reliably cite or recommend it. |
 | 51–75 | **Citable** | AI systems can identify and cite the entity, but consistency and verifiability gaps remain. |
@@ -55,13 +55,13 @@ The goal of AEO implementation is not a perfect score. It is a score high enough
 
 The AI Citation Readiness Framework is designed to be applied in three steps:
 
-**Step 1 — Entity Audit**
+**Step 1 — Entity Audit**  
 Map all existing signals for the entity: structured data, external profiles, sameAs references, published content, mentions and citations. Identify gaps, conflicts and missing anchor points.
 
-**Step 2 — Signal Assessment**
+**Step 2 — Signal Assessment**  
 Evaluate each signal against the three dimensions: Clarity, Consistency and Verifiability. Assign a score per dimension. The AI Citation Readiness Score is the resulting assessment across these three dimensions.
 
-**Step 3 — Signal Architecture**
+**Step 3 — Signal Architecture**  
 Close the gaps. Structured data, external profile alignment, consistent claim formulation and verified anchor points are the primary tools. The goal is a coherent, machine-readable entity layer that AI systems can traverse without ambiguity.
 
 For a practical audit format, use the [Citation Readiness Checklist](./citation-readiness-checklist.md).
