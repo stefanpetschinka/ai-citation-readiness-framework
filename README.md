@@ -94,6 +94,13 @@ The [AEO Implementation Layers](https://github.com/stefanpetschinka/aeo-mastery-
 
 Neither replaces the other. Measurement without strategy produces scores. Strategy without measurement produces assumptions.
 
+## Related Resources
+
+**AI Visibility Evidence Model**  
+A reference model that orders the publisher-side factors behind AI visibility by strength of evidence — the descriptive counterpart to this framework.
+
+→ [github.com/stefanpetschinka/ai-visibility-evidence-model](https://github.com/stefanpetschinka/ai-visibility-evidence-model)
+
 ---
 
 ## About the Author
